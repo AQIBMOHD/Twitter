@@ -1,4 +1,3 @@
-# Twitter
 
 # X Twitter X - A Twitter Clone
 
